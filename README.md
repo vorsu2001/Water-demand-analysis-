@@ -6,7 +6,7 @@ and leakage performance across South West Water, Bristol Water
 and SES Water from 2019-20 to 2024-25.
 
 ## Data Source
-Ofwat Water Company Performance Report 2024-25 (publicly available)
+Ofwat Water Company Performance Report 2019-25 (publicly available)
 
 ## Deliverables
 - Power BI dashboard — PCC trends, leakage comparison, gap to 2050 targets
